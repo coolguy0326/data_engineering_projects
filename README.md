@@ -41,6 +41,4 @@ Link: [API to Postgres](https://github.com/coolguy0326/data_engineering_projects
 
 ## CAPSTONE PROJECT
 Udacity provides their own crafted Capstone project with dataset that include data on immigration to the United States, and supplementary datasets that include data on airport codes, U.S. city demographics, and temperature data.
-  
-I worked on my own open-ended project. <br />
-Here is the link - [goodreads_etl_pipeline](https://github.com/coolguy0326/goodreads_etl_pipeline)
+
